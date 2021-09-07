@@ -1,9 +1,34 @@
-<img src="poster1-GIMP.png" width="100%" height="auto"/>
+<img src="poster2-GIMP.png" width="100%" height="auto"/>
 
-Being full stack, I can be a Jack of all trades but I preferred specializing in the LAMP stack over the MERN stack.<br>
-See the below infographic for an insight into my roadmap so far.
+I considered being a Jack of all trades but I preferred specializing in the LAMP stack over the MERN stack. I am carving a niche in web apps built from scratch, sounds crazy with all the tools available eh?<br>
 
-<img src="mindmap.png" width="100%" height="auto"/>
+### What I know
+- Backend
+    - PHP
+    - NodeJS
+
+- Frontend
+    - HTML5
+    - CSS3
+    - JavaScript
+
+- Frameworks
+    - Laravel
+    - Wordpress
+
+- Libraries
+    - React
+    - Bootstrap
+    - jQuery
+
+- Testing
+    - PHPUnit
+    - Puppeteer
+
+- Dependencies
+    - Composer
+    - npm    
+
 
 To checkout my portfolio <a href="https://bit.ly/elvisben-portfolio">click here</a>
 
