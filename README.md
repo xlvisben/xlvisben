@@ -16,6 +16,11 @@ I considered being a Jack of all trades but I preferred specializing in the LAMP
     - Laravel
     - Wordpress
 
+- Databases
+    - SQL
+    - SQLite
+    - MySQL
+
 - Libraries
     - React
     - Bootstrap
@@ -26,9 +31,10 @@ I considered being a Jack of all trades but I preferred specializing in the LAMP
     - Puppeteer
 
 - Dependencies
-    - Composer
+    - composer
     - npm    
 
+###Stuff you should try
 
 To checkout my portfolio <a href="https://bit.ly/elvisben-portfolio">click here</a>
 
