@@ -34,7 +34,7 @@ I considered being a Jack of all trades but I preferred specializing in the LAMP
     - composer
     - npm    
 
-###Stuff you should try
+### Stuff you should try
 
 To checkout my portfolio <a href="https://bit.ly/elvisben-portfolio">click here</a>
 
