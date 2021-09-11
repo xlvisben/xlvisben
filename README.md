@@ -1,6 +1,9 @@
 <img src="poster2-GIMP.png" width="100%" height="auto"/>
 
-I considered being a Jack of all trades but I preferred specializing in the LAMP stack over the MERN stack. I am carving a niche in web apps built from scratch, sounds crazy with all the tools available eh?<br>
+<p>
+You've probably already read that am a full stack web developer and if not you just did.
+</p>
+I preferred specializing on the LAMP stack over the MERN stack. Further niching down to web apps built from scratch, sounds crazy with all the tools available eh?(Well of course some libraries here and there)<br>
 
 ### What I know
 - Backend
