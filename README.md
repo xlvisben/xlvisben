@@ -3,7 +3,7 @@
 <p>
 You've probably already read that am a full stack web developer and if not you just did.
 </p>
-I preferred specializing on the LAMP stack over the MERN stack. Further niching down to web apps built from scratch, sounds crazy with all the tools available eh?(Well of course some libraries here and there)<br>
+I preferred specializing on the LAMP stack over the MERN stack. Further niching down to web apps built from scratch, sounds crazy with all the tools available eh?(Well of course I use some libraries here and there)<br>
 
 ### What I know
 - Backend
@@ -33,7 +33,7 @@ I preferred specializing on the LAMP stack over the MERN stack. Further niching 
     - PHPUnit
     - Puppeteer
 
-- Dependencies
+- Dependency Manager
     - composer
     - npm    
 
