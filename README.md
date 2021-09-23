@@ -1,9 +1,10 @@
-<img src="poster2-GIMP.png" width="100%" height="auto"/>
-
+# Hey I am Elvis Ben <img src='https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif'/>
 <p>
-You've probably already read that am a full stack web developer and if not you just did.
+I am a full stack web developer specializing in the LAMP stack narrowing it down to web apps built from scratch, sounds crazy with all the tools available eh?(Well of course I use some libraries here and there).
 </p>
-I preferred specializing on the LAMP stack over the MERN stack. Further niching down to web apps built from scratch, sounds crazy with all the tools available eh?(Well of course I use some libraries here and there)<br>
+<p>
+I have dabbled in Node JS since JavaScript is ubiquitous in web development.
+</p>
 
 ### What I know
 - Backend
@@ -24,8 +25,9 @@ I preferred specializing on the LAMP stack over the MERN stack. Further niching 
     - SQLite
     - MySQL
 
-- Libraries
+- JavaScript Libraries and Frameworks
     - React
+    - Svelte
     - Bootstrap
     - jQuery
 
@@ -33,9 +35,9 @@ I preferred specializing on the LAMP stack over the MERN stack. Further niching 
     - PHPUnit
     - Puppeteer
 
-- Dependency Manager
+- Dependency Managers
     - composer
-    - npm    
+    - npm  
 
 ### Stuff you should try
 
