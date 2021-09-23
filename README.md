@@ -1,4 +1,4 @@
-# Hey I am Elvis Ben <img src='https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif'/>
+# Hey I am Elvis Ben <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="50px">
 <p>
 I am a full stack web developer specializing in the LAMP stack narrowing it down to web apps built from scratch, sounds crazy with all the tools available eh?(Well of course I use some libraries here and there).
 </p>
@@ -38,6 +38,11 @@ I have dabbled in Node JS since JavaScript is ubiquitous in web development.
 - Dependency Managers
     - composer
     - npm  
+    - yarn
+
+- Tools
+    - Git
+    - Linux
 
 ### Stuff you should try
 
